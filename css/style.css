@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Roboto:wght@900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #202021;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #fffcfc;
+    margin-top: 2vh;
+}
+
+.connextion {
+    margin-top: 2vh;
+    margin-right: 1vw;
+}
